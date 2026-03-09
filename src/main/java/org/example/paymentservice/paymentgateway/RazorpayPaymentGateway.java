@@ -1,10 +1,9 @@
-package org.example.paymentservice_sept2024.paymentgateway;
+package org.example.paymentservice.paymentgateway;
 
 import com.razorpay.PaymentLink;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.json.JSONObject;
-import com.razorpay.Payment;
 import com.razorpay.RazorpayClient;
 import com.razorpay.RazorpayException;
 

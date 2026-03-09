@@ -1,4 +1,4 @@
-package org.example.paymentservice_sept2024.paymentgateway;
+package org.example.paymentservice.paymentgateway;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

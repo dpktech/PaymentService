@@ -1,4 +1,4 @@
-package org.example.paymentservice_sept2024.paymentgateway;
+package org.example.paymentservice.paymentgateway;
 
 import com.stripe.Stripe;
 import com.stripe.exception.StripeException;

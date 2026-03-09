@@ -1,7 +1,7 @@
-package org.example.paymentservice_sept2024.services;
+package org.example.paymentservice.services;
 
-import org.example.paymentservice_sept2024.paymentgateway.PaymentGateway;
-import org.example.paymentservice_sept2024.paymentgateway.PaymentGatewayChooserStrategy;
+import org.example.paymentservice.paymentgateway.PaymentGateway;
+import org.example.paymentservice.paymentgateway.PaymentGatewayChooserStrategy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

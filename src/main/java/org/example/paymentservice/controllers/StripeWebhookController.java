@@ -1,4 +1,4 @@
-package org.example.paymentservice_sept2024.controllers;
+package org.example.paymentservice.controllers;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

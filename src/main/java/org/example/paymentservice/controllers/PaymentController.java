@@ -1,7 +1,7 @@
-package org.example.paymentservice_sept2024.controllers;
+package org.example.paymentservice.controllers;
 
-import org.example.paymentservice_sept2024.dtos.InititatePaymentDto;
-import org.example.paymentservice_sept2024.services.PaymentService;
+import org.example.paymentservice.dtos.InititatePaymentDto;
+import org.example.paymentservice.services.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
