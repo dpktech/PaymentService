@@ -54,6 +54,13 @@
             <version>1.4.8</version>
         </dependency>
 
+        <!-- Kafka producer for payment-confirmed events (FR-5.3) -->
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
+            <version>3.2.4</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.stripe/stripe-java -->
         <dependency>
             <groupId>com.stripe</groupId>
